@@ -1,6 +1,8 @@
-# Talks
+<link rel="stylesheet" href="styles.css">
 
-## 2024
+## Talks
+
+### 2024
 * ***Séminaire des doctorants de l'Inst. de Mathématiques de Marseille et du Centre de Physique Théorique, Marseille, FR*** <br>
 Talk: La vie secrète des cellules (et comment la découvrir), 2024/11
 
