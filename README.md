@@ -1,4 +1,4 @@
-# talks
+# Talks
 
 ## 2024
 * ***Séminaire des doctorants de l'Inst. de Mathématiques de Marseille et du Centre de Physique Théorique, Marseille, FR*** <br>
