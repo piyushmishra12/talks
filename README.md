@@ -18,10 +18,10 @@ Poster: Comparative study of transformer robustness for multiple particle tracki
 * ***3 Minute-Thesis (EUSIPCO), Virtual*** <br>
 Video: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environmentsr, 2024/07
 
-* ***Journées des doctorants (Inst. Fresnel), Carry-le-Rouet, FR*** <br>
+* ***Journées des doctorants 2024 (Inst. Fresnel), Carry-le-Rouet, FR*** <br>
 Poster: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/05
 
-* ***Journée des doctorants 2024 (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
+* ***Journée de nouveaux doctorants (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
 Talk: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/03
 
 * ***Après-midi de nouveaux arrivants (École Doctorale 184), Marseille, FR*** <br>
