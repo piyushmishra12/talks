@@ -15,10 +15,13 @@ Talk: Data driven inferences of biological systems, 2024/09
 * ***European Signal Processing Conference, Lyon, FR*** <br>
 Poster: Comparative study of transformer robustness for multiple particle tracking without clutter, 2024/08
 
+* ***3 Minute-Thesis (EUSIPCO), Virtual*** <br>
+Video: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environmentsr, 2024/07
+
 * ***Journées des doctorants (Inst. Fresnel), Carry-le-Rouet, FR*** <br>
 Poster: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/05
 
-* ***Journée des doctorants (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
+* ***Journée des doctorants 2024 (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
 Talk: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/03
 
 * ***Après-midi de nouveaux arrivants (École Doctorale 184), Marseille, FR*** <br>
