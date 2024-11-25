@@ -12,7 +12,7 @@ Talk: Comparative study of transformer robustness for multiple particle tracking
 * ***Orientation for Master in Computational and Mathematical Biology, Marseille, FR*** <br>
 Talk: Data driven inferences of biological systems, 2024/09
 
-* ***European Signal Processing Conference, Lyon, FR*** <br>
+* ***European Signal Processing Conference (EUSIPCO), Lyon, FR*** <br>
 Poster: Comparative study of transformer robustness for multiple particle tracking without clutter, 2024/08
 
 * ***3 Minute-Thesis (EUSIPCO), Virtual*** <br>
