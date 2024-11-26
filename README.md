@@ -3,6 +3,9 @@
 ## Talks
 
 ### 2024
+* ***CENTURI Day @ Centre International de Rencontres Mathématiques, Marseille, FR*** <br>
+Poster: Comparative study of transformer robustness for multiple particle tracking without clutter, 2024/12
+
 * ***Séminaire des doctorants de l'Inst. de Mathématiques de Marseille et du Centre de Physique Théorique, Marseille, FR*** <br>
 Talk: La vie secrète des cellules (et comment la découvrir), 2024/11
 
