@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="styles.css">
 
-## Talks
+## Complete List of Talks
 
 ### 2024
 * ***CENTURI Day @ Centre International de Rencontres Mathématiques, Marseille, FR*** <br>
