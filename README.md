@@ -6,7 +6,7 @@
 * ***Séminaire des doctorants de l'Inst. de Mathématiques de Marseille et du Centre de Physique Théorique, Marseille, FR*** <br>
 Talk: La vie secrète des cellules (et comment la découvrir), 2024/11
 
-* ***AI and Physical Sciences (Federation of Maths Research Units of Marseille), Marseille, FR*** <br>
+* ***AI and Physical Sciences (Marseille Federation of Mathematics Research Units), Marseille, FR*** <br>
 Talk: Comparative study of transformer robustness for multiple particle tracking without clutter, 2024/11
 
 * ***Orientation for Master in Computational and Mathematical Biology, Marseille, FR*** <br>
