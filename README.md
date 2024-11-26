@@ -21,8 +21,8 @@ Video: Weakly-supervised inferences of molecular dynamics for fluorescence imagi
 * ***Journées des doctorants 2024 (Inst. Fresnel), Carry-le-Rouet, FR*** <br>
 Poster: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/05
 
-* ***Journée de nouveaux doctorants (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
+* ***Journée des nouveaux doctorants (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
 Talk: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/03
 
-* ***Après-midi de nouveaux arrivants (École Doctorale 184), Marseille, FR*** <br>
+* ***Après-midi des nouveaux arrivants (École Doctorale 184), Marseille, FR*** <br>
 Talk: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environmentsr, 2024/02
