@@ -23,7 +23,7 @@ Talk: Data driven inferences of biological systems, 2024/09
 Video: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/07
 
 * ***Journées des doctorants 2024 (Inst. Fresnel), Carry-le-Rouet, FR*** <br>
-Poster: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/05
+[Poster](https://piyushmishra12.github.io/talks/assets/Piyush_Mishra_Fresnel_Poster.pdf): Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/05
 
 * ***Journée des nouveaux doctorants (Inst. de Mathématiques de Marseille), Marseille, FR*** <br>
 Talk: Weakly-supervised inferences of molecular dynamics for fluorescence imaging in physiological environments, 2024/03
