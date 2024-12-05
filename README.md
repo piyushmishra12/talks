@@ -11,7 +11,7 @@
 Talk: La vie secrète des cellules (et comment la découvrir), 2024/11
 
 * ***AI and Physical Sciences (Marseille Federation of Mathematics Research Units), Marseille, FR*** <br>
-Talk: Comparative study of transformer robustness for multiple particle tracking without clutter, 2024/11
+[Talk](https://piyushmishra12.github.io/talks/assets/ai_in_physical_sciences.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 2024/11
 
 * ***Orientation for Master in Computational and Mathematical Biology, Marseille, FR*** <br>
 Talk: Data driven inferences of biological systems, 2024/09
