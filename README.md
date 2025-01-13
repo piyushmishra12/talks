@@ -8,7 +8,7 @@
 [Poster](https://piyushmishra12.github.io/talks/assets/Eusipco_poster.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 12.2024
 
 * ***Séminaire des doctorants de l'Inst. de Mathématiques de Marseille et du Centre de Physique Théorique, Marseille, FR*** <br>
-Talk: La vie secrète des cellules (et comment la découvrir), 11.2024
+[Talk](https://piyushmishra12.github.io/talks/assets/la-vie-secrete-des-cellules.pdf): La vie secrète des cellules (et comment la découvrir), 11.2024
 
 * ***AI and Physical Sciences (Marseille Federation of Mathematics Research Units), Marseille, FR*** <br>
 [Talk](https://piyushmishra12.github.io/talks/assets/ai_in_physical_sciences.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 11.2024
