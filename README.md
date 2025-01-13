@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="styles.css">
 
 [<img align="right" width="45" height="45" src="logo.jpeg">](https://piyushmishra12.github.io/)
-## Complete List of Talks
+## Complete List of Talks and Other Communication
 
 ### 2024
 * ***CENTURI Day @ Centre International de Rencontres Mathématiques, Marseille, FR*** <br>
