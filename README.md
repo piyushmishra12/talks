@@ -3,6 +3,10 @@
 [<img align="right" width="45" height="45" src="logo.jpeg">](https://piyushmishra12.github.io/)
 ## Complete List of Talks and Other Communication
 
+### 2025
+* ***PhDPub Vidéodrôme 2, Marseille, FR*** <br>
+Talk: The secret life of cells (and how to discover it), 02.2025
+
 ### 2024
 * ***CENTURI Day @ Centre International de Rencontres Mathématiques, Marseille, FR*** <br>
 [Poster](https://piyushmishra12.github.io/talks/assets/Eusipco_poster.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 12.2024
