@@ -4,7 +4,7 @@
 ## Complete List of Talks and Other Communication
 
 ### 2025
-* ***PhDPub Vidéodrôme 2, Marseille, FR*** <br>
+* ***PhD Pub Vidéodrôme 2, Marseille, FR*** <br>
 Talk: The secret life of cells (and how to discover it), 02.2025
 
 ### 2024
