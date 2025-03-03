@@ -5,7 +5,7 @@
 
 ### 2025
 * ***Phyti Seminar, Inst. Fresnel, Marseille, FR*** <br>
-Slides: Understanding Transformers:A step-by-step hand simulationto translate a sentencefrom English to Hindi, 02.2025
+Slides: Understanding Transformers: A step-by-step hand simulation to translate a sentence from English to Hindi, 02.2025
 
 * ***PhD Pub Vidéodrôme 2, Marseille, FR*** <br>
 Slides: The secret life of cells (and how to discover it), 02.2025
