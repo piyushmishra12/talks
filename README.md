@@ -8,7 +8,7 @@
 [Slides](https://piyushmishra12.github.io/talks/assets/Transformer%20hand%20simulation.pdf): Understanding Transformers: A step-by-step hand simulation to translate a sentence from English to Hindi, 02.2025
 
 * ***PhD Pub Vidéodrôme 2, Marseille, FR*** <br>
-Slides: The secret life of cells (and how to discover it), 02.2025
+[Slides](https://piyushmishra12.github.io/talks/assets/PhDPub_Piyush.pdf): The secret life of cells (and how to discover it), 02.2025
 
 ### 2024
 * ***CENTURI Day @ Centre International de Rencontres Mathématiques, Marseille, FR*** <br>
