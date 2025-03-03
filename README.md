@@ -4,18 +4,21 @@
 ## Complete List of Talks and Other Communication
 
 ### 2025
+* ***Phyti Seminar, Inst. Fresnel, Marseille, FR*** <br>
+Slides: Understanding Transformers:A step-by-step hand simulationto translate a sentencefrom English to Hindi, 02.2025
+
 * ***PhD Pub Vidéodrôme 2, Marseille, FR*** <br>
-Talk: The secret life of cells (and how to discover it), 02.2025
+Slides: The secret life of cells (and how to discover it), 02.2025
 
 ### 2024
 * ***CENTURI Day @ Centre International de Rencontres Mathématiques, Marseille, FR*** <br>
 [Poster](https://piyushmishra12.github.io/talks/assets/Eusipco_poster.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 12.2024
 
 * ***Séminaire des doctorants de l'Inst. de Mathématiques de Marseille et du Centre de Physique Théorique, Marseille, FR*** <br>
-[Talk](https://piyushmishra12.github.io/talks/assets/la-vie-secrete-des-cellules.pdf): La vie secrète des cellules (et comment la découvrir), 11.2024
+[Slides](https://piyushmishra12.github.io/talks/assets/la-vie-secrete-des-cellules.pdf): La vie secrète des cellules (et comment la découvrir), 11.2024
 
 * ***AI and Physical Sciences (Marseille Federation of Mathematics Research Units), Marseille, FR*** <br>
-[Talk](https://piyushmishra12.github.io/talks/assets/ai_in_physical_sciences.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 11.2024
+[Slides](https://piyushmishra12.github.io/talks/assets/ai_in_physical_sciences.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 11.2024
 
 * ***European Signal Processing Conference (EUSIPCO), Lyon, FR*** <br>
 [Poster](https://piyushmishra12.github.io/talks/assets/Eusipco_poster.pdf): Comparative study of transformer robustness for multiple particle tracking without clutter, 08.2024
