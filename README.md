@@ -4,6 +4,9 @@
 ## Complete List of Talks and Other Communication
 
 ### 2025
+* ***Table-ronde IA, Marseille, FR*** <br>
+[Slides](): Suivi des particules à l'échelle nanométrique, 03.2025
+
 * ***Phyti Seminar, Inst. Fresnel, Marseille, FR*** <br>
 [Slides](https://piyushmishra12.github.io/talks/assets/Transformer%20hand%20simulation.pdf): Understanding Transformers: A step-by-step hand simulation to translate a sentence from English to Hindi, 02.2025
 
