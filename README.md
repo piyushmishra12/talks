@@ -4,6 +4,9 @@
 ## Complete List of Talks and Other Communication
 
 ### 2025
+* ***CENTURI PhD and Postdoc Retreat, Moissac-Bellevue, FR*** <br>
+[Graphical Abstract](https://piyushmishra12.github.io/talks/assets/Table-ronde%20Piyush.pdf), 03.2025
+
 * ***Table-ronde IA, Marseille, FR*** <br>
 [Slides](https://piyushmishra12.github.io/talks/assets/Table-ronde%20Piyush.pdf): Suivi des particules à l'échelle nanométrique, 03.2025
 
